@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
-<object data="files/Palmer_CV.pdf" width="1000" height="1000" type='application/pdf'/>
+
+The most recent version of my CV can be found [here](https://www.dropbox.com/s/mbub1axxok7gpvb/Palmer_CV.pdf?dl=0){:target="_blank"}{:rel="noopener noreferrer"}.
+
+Updated February 2023.
