@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Alexis (Lexi) Palmer"
-  avatar           : "images/forced_photo.jpg"
+  avatar           : "forced_photo.jpg"
   bio              : "PhD Student at NYU"
   location         : "New York, New York"
   employer         :
