@@ -31,6 +31,8 @@ Despite the growing literature on rebel governance, the difficulty in obtaining 
 
 **Large Language Models Can Argue in Convincing and Novel Ways About Politics**
 *With Arthur Spirling*
+
+[Draft](https://github.com/ArthurSpirling/LargeLanguageArguments)
 <details>
   <summary>Abstract</summary>
   
