@@ -12,10 +12,12 @@ author_profile: true
 ***
 
 **Community Effects of Policing in New York City**
+
+[Draft](https://www.dropbox.com/s/fubm32zr7ow1ckz/Mar23_draft.pdf?dl=0)
 <details>
   <summary>Abstract</summary>
   
-There has been extensive work on the effect of street level bureaucrats on trust in government and subsequent political participation. However, the majority of this research has focused on direct experiences rather the possibility that communities themselves are changed by their collective interactions with government and continue to perpetuate those norms. I use the overturn of Stop, Question, and Frisk in New York City and a full panel of voter records to add to our understanding of this question. After establishing the negative effect of over zealous policing on propensity to vote, I use voters who move within the city to provide suggestive evidence that living in a community that was heavily policed, even if never directly experienced, continues to depress voting turnout. I extend these findings to non-voting forms of participation as well. These findings suggest that reform of behavior alone is not sufficient to counteract the negative effects of police behavior on communities political participation. 
+Though there has been a wealth of work showing that negative experiences with government lead to less political participation, there is little understanding of how to address this problem. That is, it is unclear whether reform to negative government behavior can also address the negative consequences of that behavior. This paper uses the overturn of Stop, Question, and Frisk in New York City to show that despite a significant change to police behavior, having experienced a high level of policing continues to depress voter turnout. Further, it uses residents who have moved within New York City after the change in policy to show that residing in a community that was heavily policed continues to influence voter behavior, even if you never directly experienced high levels of policing. This is in line with communities both being changed by police policies and community transmission of norms around participation. Finally, these effects are consistent with other forms government engagement, as residents who live in heavily policed areas submit fewer low priority 311 reports, despite having generally higher need for government services.
 </details>
 
 &nbsp;
