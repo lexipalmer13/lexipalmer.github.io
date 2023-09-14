@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a 4th year PhD candidate at the Wilf Family Department of Politics at New York University. My dissertation focuses on institutional trust, storytelling, and text as data methods, but these serve mainly as the nexus points of many research interests.
+Hello! I am a 5th year PhD candidate at the Wilf Family Department of Politics at New York University. I am currently on the post-doc market for positions that start in Fall 2024. My dissertation focuses on institutional trust, storytelling, and text as data methods, but these serve mainly as the nexus points of many research interests.
 
 The central theme of much of my work is trust: why do people trust the institutions, leaders, and information that they do. This work is rarely focused on the actual performance of these dimensions and instead asks what shapes perceptions and persuades. This interest has led me to focus on micro-founded data and individual level analysis, with a particular interest in Text as Data as a way to operationalize difficult to measure concepts such as what makes a story. The actual topics I work on have spanned conflict governance, cynicism in politics, and the role of Large Language Models.
 

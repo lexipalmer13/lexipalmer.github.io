@@ -57,7 +57,7 @@ As many countries note declining trust in government institutions, the academic 
 
 &nbsp;
 
-**Disaggregating Political Cynicism**
+**Cynicism in Politics**
 *With Gwyneth McClendon*
 <details>
   <summary>Abstract</summary>
@@ -67,11 +67,11 @@ Political observers have remarked that cynicism is currently very high in the U.
 
 &nbsp;
 
-**Measuring Narrative Structure and a Selection of Political Applications**
+**Detecting Latent Text Structure and Applications in Politics**
 <details>
   <summary>Abstract</summary>
   
-Despite work across many fields demonstrating that humans are extremely sensitive to a classic story structure in text, there has yet to be a method to evaluate and quantify to what extent a piece of text fits this structure. In this paper I propose a replicable model to assign a score to a document based on a training set of stories as to whether it follows the ’ideal’ story sequence. I then test this methodology on three types of political stories: personal experiences, institutional functioning, and national identity. This project aims to facilitate a study of the degree to which structure of information matters as well as content by developing a novel text analysis methodology.
+Though the way information is presented is an important consideration of any writer or orator, there has yet to be a way to systematically compare the structure rather than the topic text contains. This paper builds an original method for classifying the latent structure of a piece of text using a Large Language Model to classify the similarity of component parts and then scoring documents by the extent to which they share similar ordering of parts. The method will be used in my dissertation to classify whether text fits a story structure. However, it also has further use cases in, for instance, political speeches and the order in which actors share information. 
 </details>
 
 &nbsp;
