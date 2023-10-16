@@ -11,7 +11,7 @@ author_profile: true
 *for Patrick Egan, Fall 2023*
 
 **Politics of Climate Change,** Undergraduate, NYU Politics\
-*for Eric Dickson, Spring 2022*\
+*for Eric Dickson, Spring 2023*\
 [Course Evaulations](https://www.dropbox.com/scl/fi/srpzb2a6bzo6bwntewxnw/climate_change.pdf?rlkey=a5bhg5g491dxkdlrh4p1zqlv1&dl=0){:target="_blank"}{:rel="noopener noreferrer"}
 
 **Introduction to Research Methods for Politics,** Undergraduate, NYU Politics\
