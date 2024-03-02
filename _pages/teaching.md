@@ -7,8 +7,12 @@ author_profile: true
 
 &nbsp;
 
+**Comparative Politics** Undergraduate, NYU Politics\
+*for Gwyneth McClendon, Spring 2024*
+
 **Introduction to Research Methods for Politics (Head TA),** Undergraduate, NYU Politics\
 *for Patrick Egan, Fall 2023*
+[Course Evaulations](https://www.dropbox.com/scl/fi/tpsq174tgaarmlv8xugvg/research_methodsF23.pdf?rlkey=bumirkmqqhu6e3t0tj2obz7lu&dl=0){:target="_blank"}{:rel="noopener noreferrer"}
 
 **Politics of Climate Change,** Undergraduate, NYU Politics\
 *for Eric Dickson, Spring 2023*\

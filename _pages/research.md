@@ -44,19 +44,23 @@ All politics relies on rhetorical appeals. Part creative art, part engineering, 
 
 &nbsp;
 
+**The Effectiveness of Narrative Structure at Building Public Support**
+
+[Draft](https://www.dropbox.com/scl/fi/54eue4mri117o5fh6aq66/Palmer_narrative_draft.pdf?rlkey=r6m1mue4hxi2dcekj9g7qdp6m&dl=0)
+<details>
+  <summary>Abstract</summary>
+  
+As many countries note declining trust in government institutions, the academic and public discussion has largely focused on the connection between trust and government performance. However, many governments and institutions use other strategies to build trust, including storytelling. Rather than improving government performance or procedures, telling a story (following a rising action-climax-falling action format) can increase empathy towards government representatives and a more positive affect towards institutions. I use the case of the main investigative police service in Kenya, the Directorate of Criminal Investigations, which has been sharing stories of their cases on Twitter as a way to build trust in the police. Using sentiment classification, I show that people who follow these stories (rather than straightforward reports of similar police actions) write more positively about the police. I also use data from a survey experiment in Kenya to demonstrate that structuring information as a story increases audience belief that the relevant actors can be trusted. Finally, I compare the effects of a story with elements of procedural justice to establish this strategy is at least as effective as shifting opinions about performance at building trust. This project contributes to our understanding of how trust develops and the effect of structure as compared to content.
+</details>
+
+&nbsp;
+
 Works in Progress
 ======
 
 ***
 
-**The Effectiveness of Narrative Structure at Building Public Support**
-<details>
-  <summary>Abstract</summary>
-  
-As many countries note declining trust in government institutions, the academic and public discussion has largely focused on the relationship between trust and government performance (both outputs and procedure). There has been minimal attention paid to other methods of persuasion aimed at increasing trust. In this project, I explore one of the prevalent ways governments and leaders seek to shift public perceptions of government institutions without changing actual government performance: storytelling. I use the case of the main investigative service in Kenya, the Directorate of Criminal Investigations, which has been sharing true stories of their cases on Twitter as a way to build trust in the police. Using sentiment classification, I show that people who follow these stories (rather than non-narrative reports of similar police actions) write more positively about the police. I also use data from a novel survey experiment in Kenya to demonstrate that structuring information as a story, rather than revealing the conclusion at the beginning, increases audience belief that the relevant actors can be trusted, even more so than shifts in procedural justice do. This project aims to contribute to our understanding of how trust develops and whether structure of communication as well as content matters.
-</details>
 
-&nbsp;
 
 **Disaggregating Political Cynicism: Evidence of Two Types of Cynicism and their Attitudinal Consequences**
 *With Gwyneth McClendon*
@@ -74,5 +78,18 @@ Political cynicism is rising around the world, but we have little understanding 
   
 This paper develops an original method for classifying the latent structure of a piece of text using a Masked Language Model to classify the similarity of component parts and then scoring documents by the overall ordering of each category. Though there is a wealth of work categorizing text based on its topic and tone, there is little methodology for sorting text by the way it is structured. This is despite the fact that anyone who speaks or writes thinks carefully about the best order in which to convey information and the subsequent impact on an audience. For instance, relating information as a story rather than in a straightforward man ner has been shown to be more persuasive and increase empathy. However, in contexts where time is limited or an audience is more skeptical, it may be best to lead with the main point. Being able to classify the structure of text will allow us to both understand how politicians convey information and the contexts in which this varies. The benefits of the method include that it can be used on short form documents, which are often more difficult to break into discrete parts, and each stage can be verified by an analyst rather than black-boxing what is being classified.
 </details>
+
+&nbsp;
+
+
+Other Publications
+======
+
+***
+
+
+
+**"Using proprietary language models in academic research requires explicit justification."** Natural Computational Science (2023) [https://doi.org/10.1038/s43588-023-00585-1](https://doi.org/10.1038/s43588-023-00585-1) With Arthur Spirling and Noah Smith.
+
 
 &nbsp;
