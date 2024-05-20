@@ -8,7 +8,8 @@ author_profile: true
 &nbsp;
 
 **Comparative Politics** Undergraduate, NYU Politics\
-*for Gwyneth McClendon, Spring 2024*
+*for Gwyneth McClendon, Spring 2024*\
+[Course Evaulations](https://www.dropbox.com/scl/fi/uce57b26l3kms0nz03gmp/comparative_S24.pdf?rlkey=wzvz9k9dq8bgudshg0fol58sb&dl=0){:target="_blank"}{:rel="noopener noreferrer"}
 
 **Introduction to Research Methods for Politics (Head TA),** Undergraduate, NYU Politics\
 *for Patrick Egan, Fall 2023*\
