@@ -40,9 +40,9 @@ All politics relies on rhetorical appeals, and the ability to make arguments is 
 
 ***
 
-"The Effectiveness of Narrative Structure at Building Public Support"
+"Stories of Success: Narrative Propaganda in Kenya"
 
-[Draft](https://www.dropbox.com/scl/fi/3ctp1ohmdkskh8lmsoe3m/Palmer_narrative-draft-april.pdf?rlkey=nh99cn7qtwzu1fqg93oxa7qq0&dl=0)
+[Draft](https://www.dropbox.com/scl/fi/o790kuxi5tp7wxalotdtd/draft_may24.pdf?rlkey=gaomr4n1vf6wia7opxge0hwnu&dl=0)
 <details>
   <summary>Abstract</summary>
   
@@ -90,7 +90,23 @@ This paper develops an original method for classifying the latent structure of a
 
 &nbsp;
 
-"Beyond Human Judgment: Evaluating Language Model Uncertainty for Social Science Research." *with Arthur Spirling and Christopher Barrie*
+"Replication for Language Models: Problems, Principles, and Best Practice for Political Science." *with Arthur Spirling and Christopher Barrie*
+<details>
+  <summary>Abstract</summary>
+  
+Excitement about Language Models (LMs) abounds: these generative tools require minimal researcher input and yet make it possible to annotate and generate large quantities of data. But while LMs promise to replace conventional approaches to our efforts, there has been almost no systematic research into the reproducibility of research using these methods. This is a problem: the status quo for their use lacks the scientific integrity we expect in our field. We give a new theoretical framework for replication in the discipline and show that much LM work is uniquely wanting. We then demonstrate the problem empirically using a rolling iterated replication design in which we compare crowdsourcing and LMs on repeated, multiple tasks, over a long period of time (six months). We find that while LMs can match or exceed the accuracy of crowdworkers, the observed variance in LM performance is unexpectedly and unacceptably high. Indeed, in many cases the LM findings cannot be re-run, let alone replicated.  We conclude with preliminary recommendations for best practice. 
+</details>
+
+&nbsp;
+
+&nbsp;
+
+"Cynicism and Corruption in Kenya." *with Gwyneth McClendon*
+<details>
+  <summary>Abstract</summary>
+
+A robust literature outlines a vicious cycle between political corruption and a lack of electoral accountability in many countries. Some studies characterize particular countries as so steeped in corruption that it becomes ``normal" and acceptable to voters. Through an original, nationally representative survey in Kenya conducted in 2024, we argue for additional nuance in these claims. We consider cynical beliefs---beliefs that others are badly intentioned and/or deeply selfish---and their possible role in perpetuating voter support for corrupt politicians. But we underscore an important distinction between two distinct types of cynical beliefs---(1) cynical beliefs about political elites alone versus (2) cynical beliefs about human nature more generally---and argue that these two types of cynical beliefs have different implications for how citizens respond to purportedly ``clean" politicians. Citizens who hold cynical beliefs about politicians alone are more open to the possibility that there are ``clean" candidates out there and thus are more willing to divert their votes to candidates running clean campaigns and away from those who are openly corrupt. By contrast, citizens who hold cynical beliefs about human nature in general (about the motivations both of politicians and of the more general population) are inclined to believe that all possible candidates are corrupt. They are thus more susceptible to campaign claims that seemingly ``clean" candidates are actually corrupt and are more likely to vote for openly corrupt politicians than those running an ostensibly clean campaign. We discuss implications for the literature on accountability and on populism.
+</details>
 
 &nbsp;
 
